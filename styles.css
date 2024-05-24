@@ -1,0 +1,30 @@
+body {
+    background-color: #071329;
+}
+
+.btn-primary {
+    background-color: #9e8857;
+    border-color: #9e8857;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#contenedor-formulario-contacto {
+    background: #4F6FAA;
+    border-radius: 5px;
+    max-width: 500px;
+}
+
+#titulo-formulario {
+    color: #f3f3f3;
+}
+
+.container-lista {
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 0 auto;
+}
